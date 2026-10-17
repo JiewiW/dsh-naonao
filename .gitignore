@@ -1,0 +1,13 @@
+node_modules/
+*.tgz
+*.log
+.bak/
+*.bak*
+
+# 本地调试/截图等临时产物
+_*
+
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

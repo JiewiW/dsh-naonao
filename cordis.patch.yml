@@ -1,0 +1,9 @@
+# dsh-naonao bundle patch: mount the naonao plugin.
+#
+# Host half registers system-prompt context (naonao text) and an RPC channel
+# for the client to read/write/clear per-session nag text.
+# Client half adds a toggle button in composer lower-left and a dual-column
+# editor card above the composer (conversation.input.dock).
+- insert:
+    - id: naonao
+      name: dsh-naonao
