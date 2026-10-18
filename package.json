@@ -1,6 +1,6 @@
 {
   "name": "dsh-naonao",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "唠叨模式：在输入框编辑提示词，每轮自动注入到模型上下文末尾",
   "type": "module",
   "main": "lib/index.js",

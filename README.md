@@ -17,7 +17,7 @@
 ## 快速开始
 
 ```sh
-dsh plugin --profile <你的profile> add github:JiewiW/dsh-naonao#v0.1.0
+dsh plugin --profile <你的profile> add github:JiewiW/dsh-naonao#v0.1.1
 ```
 
 安装后重启 DSH 实例，输入框左下角出现「唠叨」按钮即已生效。
